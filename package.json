@@ -1,5 +1,5 @@
 {
-  "name": "@formmy/celebration-flip",
+  "name": "celebration-flip",
   "version": "1.0.0",
   "type": "module",
   "description": "A beautiful animated flip text component for celebrating milestones with customizable text and hearts",
@@ -32,11 +32,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/formmy/celebration-flip.git"
+    "url": "https://github.com/blissito/celebration-flip.git"
   },
-  "homepage": "https://github.com/formmy/celebration-flip#readme",
+  "homepage": "https://github.com/blissito/celebration-flip#readme",
   "bugs": {
-    "url": "https://github.com/formmy/celebration-flip/issues"
+    "url": "https://github.com/blissito/celebration-flip/issues"
   },
   "peerDependencies": {
     "react": ">=16.8.0",
