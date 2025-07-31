@@ -229,7 +229,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📄 License
 
-MIT © [Formmy Team](https://github.com/formmy)
+MIT © [@blissito](https://github.com/blissito)
 
 ## 🔗 Links
 
@@ -239,4 +239,4 @@ MIT © [Formmy Team](https://github.com/formmy)
 
 ---
 
-Made with ❤️ by the [Formmy](https://formmy.ai) team
+Made with ❤️ by the [Formmy](https://formmy.app) team
