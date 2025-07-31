@@ -1,6 +1,6 @@
 {
   "name": "celebration-flip",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "module",
   "description": "A beautiful animated flip text component for celebrating milestones with customizable text and hearts",
   "main": "dist/index.js",
